@@ -25,7 +25,7 @@ The dataset contains detailed information about flights, including various attri
 Tasks for this part of the project:
 
 - Prepare data: Clean, format, and consolidate into a Spark DataFrame.
-- Analyze data: Calculate various aggregates including flight counts, delay percentages, and statistics by carrier and airport.
+- Analyze data: Calculate aggregates including flight counts, delay percentages, and statistics by carrier and airport.
 
 ## Getting Started
 
