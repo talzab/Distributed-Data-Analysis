@@ -20,7 +20,7 @@ The dataset contains detailed information about flights, including various attri
 
 ## Milestones
 
-### Part 1: Basic Data Exploration
+### Part 1: [Basic Data Exploration]("file:///C:/Users/tilin/Downloads/Part%201_%20Basic%20Data%20Exploration%20(1).html")
 
 Tasks for this part of the project:
 
