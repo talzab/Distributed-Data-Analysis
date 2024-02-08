@@ -26,7 +26,6 @@ Tasks for this part of the project:
 
 - Prepare data: Clean, format, and consolidate into a Spark DataFrame.
 - Analyze data: Calculate aggregates including flight counts, delay percentages, and statistics by carrier.
-  To view the HTML of part 1, [click here](file:///C:/Users/tilin/Downloads/Part%201_%20Basic%20Data%20Exploration%20(1).html).
 
 ## Getting Started
 
