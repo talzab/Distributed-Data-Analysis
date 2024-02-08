@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The project involves exploring and analyzing flight data, which is stored in Parquet files on a Spark cluster hosted on Azure Data Lake Storage.
+The project involves exploring and analyzing U.S. flight data, which is stored in Parquet files on a Spark cluster hosted within the Databricks environment.
 
 ## Dataset Description
 
@@ -21,7 +21,7 @@ The dataset contains detailed information about flights, including various attri
 ## Milestones
 
 ### Part 1: Basic Data Exploration
-* **Tasks:**
+
 Tasks for this part of the project:
 
 - Prepare data: Clean, format, and consolidate into a Spark DataFrame.
