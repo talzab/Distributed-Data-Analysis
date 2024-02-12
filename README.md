@@ -27,6 +27,10 @@ Tasks for this part of the project:
 - Prepare data: Clean, format, and consolidate into a Spark DataFrame.
 - Analyze data: Calculate aggregates including flight counts, delay percentages, and statistics by carrier.
 
+### Part 2: Feature Engineering 
+- Method: Engineer features such as day of the week, airport weather delay rates, and departures relative to daily averages to enhance predictive accuracy.
+
+
 ## Getting Started
 
 To get started with the project, follow these steps:
