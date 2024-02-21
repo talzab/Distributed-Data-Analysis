@@ -30,6 +30,10 @@ Tasks for this part of the project:
 ### Part 2: Feature Engineering 
 - Method: Engineer features such as day of the week, airport weather delay rates, and departures relative to daily averages to enhance predictive accuracy.
 
+### Part 3: Delay Prediction
+- Modeling: Apply Spark ML to predict departure delays.
+- Validation: Evaluate the model’s performance on the held-out validation set, and report accuracy.
+
 
 ## Getting Started
 
